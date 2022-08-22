@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1554795808-3231c32711cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzF8fGZydWl0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    
+}
+#products{
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 3%;
+    border-radius: 40px;
+    background-color: pink;
+    opacity: 50%;
+    width: 10%;
+    padding: 7%;
+    font-weight: bolder;
+    padding-right: 3%;
+    font-size: 25px;   
+}
+#fruList{
+    text-decoration: none;
+    margin-left: 40%;
+    border-radius: 40px;
+    background-color: rgb(194, 80, 255);
+    opacity: 50%;
+    width: 10%;
+    font-weight: bolder;
+    padding: 7%;
+    padding-right: 3%;
+    font-size: 25px;   
+}
+#vegList{
+    text-decoration: none;
+    margin-left: 70%;
+    border-radius: 40px;
+    background-color: rgb(255, 80, 106);
+    opacity: 60%;
+    width: 10%;
+    font-weight: bolder;
+    padding: 7%;
+    padding-right: 3%;
+    font-size: 25px; 
+}
+#title{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    font-size: 25px;   
+}
+h2{
+    margin-left: 16%;
+    margin-top: 6%;
+    font-size: 30px; 
+}
+h3{
+    margin-left: 47%; 
+    margin-top: -30%;
+    font-size: 30px;
+}
+h4{
+    margin-left: 76%; 
+    margin-top: -27%;
+    font-size: 30px;
+}
